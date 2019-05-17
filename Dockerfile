@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/heapster-amd64:v1.4.2
+FROM gcr.io/google_containers/etcd:2.0.9
